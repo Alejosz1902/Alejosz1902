@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejosz1902&show_icons=true&locale=en&layout=compact" alt="alejosz1902" /></p>
 <br>
-<p><img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="marioCoder"/></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="coder"/></p>

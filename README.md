@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alejandro Sanchez</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **finding my first job in the tech industry**
+- 🔭 I’m currently working on **building my portfolio, developing personal projects and finding my first job in the tech industry**
 
 - 💬 Ask me about **react, javascript or python**
 
-- 📫 How to reach me **alejandro.sz96@hotmail.com**
+- 📫 Send me an email here **alejandro.sz96@hotmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/sif3f1djnb](https://flowcv.com/resume/sif3f1djnb)
 

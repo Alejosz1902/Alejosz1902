@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/sif3f1djnb](https://flowcv.com/resume/sif3f1djnb)
 
-- ⚡ Fun fact **I think Emily is the perfect fit for this new Linkin Park**
+- ⚡ Fun fact ** Can't wait to see SOAD live in Lima **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
